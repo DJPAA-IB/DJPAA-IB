@@ -2,8 +2,8 @@
 
 Engineering student at **Esprit School of Engineering** 🇹🇳. I build web apps, automation tools and embedded projects, and I spend way too much time customizing Arch Linux.
 
-- 🔭 Currently working on a **health platform (Saha+)**
-- 🌱 Learning: full-stack web development, PIC microcontrollers
+- 🔭 Currently working on everything
+- 🌱 trying to learn everything about everything
 - 🐧 Daily driver: Arch Linux
 
 ## 🛠️ Tech Stack
