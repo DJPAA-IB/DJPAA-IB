@@ -25,7 +25,7 @@ Engineering student at **Esprit School of Engineering** 🇹🇳. I build web ap
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Saha+](https://github.com/DJPAA-IB/Esprit-PW-2A8-2027-SahaPlus) | Digital health platform: interactive body atlas, medical map, mental-health SafeSpace, guardrailed AI assistant | HTML, CSS, JS, PHP |
-| [Yaris Design Dashboard](https://github.com/DJPAA-IB/yaris-design-dashboard) | Studio management dashboard for an interior architecture firm: reports, projects, invoices, analytics | JS, Vite, Chart.js, Node |
+| [Architect Interior Dashboard](https://github.com/DJPAA-IB/architect-interior-dashboard) | Studio management dashboard for an interior architecture firm: reports, projects, invoices, analytics | JS, Vite, Chart.js, Node |
 
 ## 📊 GitHub Stats
 
