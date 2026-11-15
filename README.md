@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:85368a,100:6366f1&height=160&section=header&text=Ibrahim&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Engineering%20student%20%C2%B7%20Esprit%20School%20of%20Engineering&descAlignY=60&descSize=16" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:85368a,100:6366f1&height=160&section=header&animation=fadeIn&text=Ibrahim&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Engineering%20student%20%C2%B7%20Esprit%20School%20of%20Engineering&descAlignY=60&descSize=16" width="100%" alt="Header" />
 
 <div align="center">
 
@@ -12,11 +12,11 @@
 
 ## 👋 About me
 
-Engineering student at **Esprit School of Engineering** 🇹🇳. I build web apps, automation tools and embedded projects, and I spend way too much time customizing Arch Linux.
+<p align="center">
+  <img src="assets/neofetch.svg" width="100%" alt="neofetch: Arch Linux, Esprit School of Engineering, Tunisia. JavaScript, PHP, Python, C. Working on everything, learning everything about everything." />
+</p>
 
-- 🔭 Currently working on everything
-- 🌱 Trying to learn everything about everything
-- 🐧 Daily driver: Arch Linux
+<p align="center"><i>I build web apps, automation tools and embedded projects, and I spend way too much time customizing Arch Linux.</i></p>
 
 ## 🛠️ Tech Stack
 
