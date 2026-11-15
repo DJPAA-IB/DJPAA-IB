@@ -1,28 +1,39 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:85368a,100:6366f1&height=160&section=header&animation=fadeIn&text=Ibrahim&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Engineering%20student%20%C2%B7%20Esprit%20School%20of%20Engineering&descAlignY=60&descSize=16" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:6366f1,100:a78bfa&height=170&section=header&animation=fadeIn&text=Ibrahim&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=2nd-year%20engineering%20student%20%C2%B7%20Esprit%20School%20of%20Engineering&descAlignY=60&descSize=16" width="100%" alt="Header" />
 
 <div align="center">
 
 <a href="https://github.com/DJPAA-IB">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ibrahim+%F0%9F%91%8B;I+build+web+apps+%26+dashboards;Automation+%2B+embedded+tinkerer;Arch+Linux+daily+driver+%F0%9F%90%A7;Trying+to+learn+everything+about+everything" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ibrahim+%F0%9F%91%8B;2nd-year+engineering+student+%40+Esprit;Curious+about+everything;Arch+Linux+daily+driver+%F0%9F%90%A7;Trying+to+learn+everything+about+everything" alt="Typing intro" />
 </a>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=DJPAA-IB&label=Profile%20views&color=8b5cf6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=DJPAA-IB&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
 
 </div>
 
 ## 👋 About me
 
 <p align="center">
-  <img src="assets/neofetch.svg" width="100%" alt="neofetch: Arch Linux, Esprit School of Engineering, Tunisia. JavaScript, PHP, Python, C. Working on everything, learning everything about everything." />
+  <img src="assets/neofetch.svg" width="100%" alt="neofetch: Arch Linux, Esprit School of Engineering, 2nd year, Tunisia. Python, C, JavaScript, PHP. Working on everything, learning everything about everything." />
 </p>
 
-<p align="center"><i>I build web apps, automation tools and embedded projects, and I spend way too much time customizing Arch Linux.</i></p>
+<p align="center"><i>Second-year engineering student. Learning by building, breaking and fixing things, and customizing Arch Linux way too much.</i></p>
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,nodejs,vite,python,sqlite,c,linux,arch,git,vscode&perline=13" alt="Tech stack" />
-</p>
+<table align="center">
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,c,js,php,html,css" alt="Python, C, JavaScript, PHP, HTML, CSS" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools &amp; OS</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,vscode,linux,arch,nodejs,vite" alt="Git, VS Code, Linux, Arch, Node.js, Vite" /></td>
+  </tr>
+</table>
 
 ## 🚀 Featured Projects
 
@@ -57,7 +68,7 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DJPAA-IB&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=DJPAA-IB&hide_border=true&border_radius=12&background=0B1020&stroke=1A2035&ring=6366F1&fire=22D3EE&currStreakNum=E2E8F0&sideNums=22D3EE&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=64748B" alt="GitHub streak" />
 </p>
 
 <p align="center">
@@ -68,4 +79,4 @@
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:85368a&height=100&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:6366f1,100:22d3ee&height=110&section=footer" width="100%" alt="Footer" />
