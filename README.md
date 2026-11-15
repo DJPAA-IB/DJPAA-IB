@@ -5,7 +5,7 @@
 <a href="https://github.com/DJPAA-IB">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ibrahim+%F0%9F%91%8B;I+build+web+apps+%26+dashboards;Automation+%2B+embedded+tinkerer;Arch+Linux+daily+driver+%F0%9F%90%A7;Trying+to+learn+everything+about+everything" alt="Typing intro" />
 </a>
-
+<br/>
 <img src="https://komarev.com/ghpvc/?username=DJPAA-IB&label=Profile%20views&color=8b5cf6&style=flat" alt="Profile views" />
 
 </div>
