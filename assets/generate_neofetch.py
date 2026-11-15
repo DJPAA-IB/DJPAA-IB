@@ -21,8 +21,8 @@ PALETTE = {
 # ── Info lines ── ("Key", "value"). Add new lines here as you learn new things.
 INFO = [
     ("OS", "Arch Linux x86_64 (btw)"),
-    ("Host", "Esprit School of Engineering"),
-    ("Year", "2nd year, engineering"),
+    ("Field", "Engineering"),
+    ("Uptime", "always learning"),
     ("Location", "Tunisia"),
     ("Shell", "bash"),
     ("Editor", "VS Code"),

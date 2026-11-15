@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:6366f1,100:a78bfa&height=170&section=header&animation=fadeIn&text=Ibrahim&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=2nd-year%20engineering%20student%20%C2%B7%20Esprit%20School%20of%20Engineering&descAlignY=60&descSize=16" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:6366f1,100:a78bfa&height=170&section=header&animation=fadeIn&text=Ibrahim&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Engineering%20%C2%B7%20Linux%20%C2%B7%20Always%20learning&descAlignY=60&descSize=16" width="100%" alt="Header" />
 
 <div align="center">
 
 <a href="https://github.com/DJPAA-IB">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ibrahim+%F0%9F%91%8B;2nd-year+engineering+student+%40+Esprit;Curious+about+everything;Arch+Linux+daily+driver+%F0%9F%90%A7;Trying+to+learn+everything+about+everything" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ibrahim+%F0%9F%91%8B;Engineering+mind+%E2%9A%99%EF%B8%8F;Curious+about+everything;Arch+Linux+daily+driver+%F0%9F%90%A7;Trying+to+learn+everything+about+everything" alt="Typing intro" />
 </a>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=DJPAA-IB&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
@@ -13,10 +13,10 @@
 ## 👋 About me
 
 <p align="center">
-  <img src="assets/neofetch.svg" width="100%" alt="neofetch: Arch Linux, Esprit School of Engineering, 2nd year, Tunisia. Python, C, JavaScript, PHP. Working on everything, learning everything about everything." />
+  <img src="assets/neofetch.svg" width="100%" alt="neofetch: Arch Linux, engineering, always learning, Tunisia. Python, C, JavaScript, PHP. Working on everything, learning everything about everything." />
 </p>
 
-<p align="center"><i>Second-year engineering student. Learning by building, breaking and fixing things, and customizing Arch Linux way too much.</i></p>
+<p align="center"><i>Learning by building, breaking and fixing things, and customizing Arch Linux way too much.</i></p>
 
 ## 🛠️ Tech Stack
 

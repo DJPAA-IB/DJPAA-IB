@@ -48,8 +48,8 @@
 <text x="330" y="92.0" class="mono reveal" style="animation-delay:1.70s"><tspan class="t">ibrahim</tspan><tspan class="v">@</tspan><tspan class="t">github</tspan></text>
 <rect x="330" y="108.5" width="112" height="1.5" fill="#64748b" class="reveal" style="animation-delay:1.82s"/>
 <text xml:space="preserve" x="330" y="135.0" class="mono reveal" style="animation-delay:1.94s"><tspan class="k">OS</tspan><tspan class="v">: Arch Linux x86_64 (btw)</tspan></text>
-<text xml:space="preserve" x="330" y="156.5" class="mono reveal" style="animation-delay:2.06s"><tspan class="k">Host</tspan><tspan class="v">: Esprit School of Engineering</tspan></text>
-<text xml:space="preserve" x="330" y="178.0" class="mono reveal" style="animation-delay:2.18s"><tspan class="k">Year</tspan><tspan class="v">: 2nd year, engineering</tspan></text>
+<text xml:space="preserve" x="330" y="156.5" class="mono reveal" style="animation-delay:2.06s"><tspan class="k">Field</tspan><tspan class="v">: Engineering</tspan></text>
+<text xml:space="preserve" x="330" y="178.0" class="mono reveal" style="animation-delay:2.18s"><tspan class="k">Uptime</tspan><tspan class="v">: always learning</tspan></text>
 <text xml:space="preserve" x="330" y="199.5" class="mono reveal" style="animation-delay:2.30s"><tspan class="k">Location</tspan><tspan class="v">: Tunisia</tspan></text>
 <text xml:space="preserve" x="330" y="221.0" class="mono reveal" style="animation-delay:2.42s"><tspan class="k">Shell</tspan><tspan class="v">: bash</tspan></text>
 <text xml:space="preserve" x="330" y="242.5" class="mono reveal" style="animation-delay:2.54s"><tspan class="k">Editor</tspan><tspan class="v">: VS Code</tspan></text>
